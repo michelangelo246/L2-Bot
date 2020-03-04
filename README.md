@@ -21,6 +21,7 @@ Funcionalidades:
 * Seleção de perfis
 * Auxilio automático com player secundário
 * Retorno automático para pivot posicionado
+* Sistema de save/load para configurações do bot
 
 ---
 
