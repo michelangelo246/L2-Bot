@@ -1,4 +1,7 @@
 # Lineage 2 - Bot Experimental
+<p align="center">
+    <img src="img/Lineage-II-Banner.jpg">
+</p>
 
 ## Detalhes
 
